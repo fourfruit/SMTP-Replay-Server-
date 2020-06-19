@@ -1,0 +1,13 @@
+D:\Visual Studio 2015\test\simple.mailserver-master\Simple.MailServer.Example\bin\Debug\Simple.MailServer.Example.exe.config
+D:\Visual Studio 2015\test\simple.mailserver-master\Simple.MailServer.Example\bin\Debug\Simple.MailServer.Example.exe
+D:\Visual Studio 2015\test\simple.mailserver-master\Simple.MailServer.Example\bin\Debug\Simple.MailServer.Example.pdb
+D:\Visual Studio 2015\test\simple.mailserver-master\Simple.MailServer.Example\bin\Debug\Simple.MailServer.dll
+D:\Visual Studio 2015\test\simple.mailserver-master\Simple.MailServer.Example\bin\Debug\Simple.MailServer.pdb
+D:\Visual Studio 2015\test\simple.mailserver-master\Simple.MailServer.Example\obj\Debug\Simple.MailServer.Example.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\test\simple.mailserver-master\Simple.MailServer.Example\obj\Debug\Simple.MailServer.Example.exe
+D:\Visual Studio 2015\test\simple.mailserver-master\Simple.MailServer.Example\obj\Debug\Simple.MailServer.Example.pdb
+D:\Visual Studio 2015\test\simple.mailserver-master\Simple.MailServer.Example\bin\Debug\BouncyCastle.Crypto.dll
+D:\Visual Studio 2015\test\simple.mailserver-master\Simple.MailServer.Example\bin\Debug\MailKit.dll
+D:\Visual Studio 2015\test\simple.mailserver-master\Simple.MailServer.Example\bin\Debug\MimeKit.dll
+D:\Visual Studio 2015\test\simple.mailserver-master\Simple.MailServer.Example\bin\Debug\MailKit.xml
+D:\Visual Studio 2015\test\simple.mailserver-master\Simple.MailServer.Example\bin\Debug\MimeKit.xml
